@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136340Z
+addr = 0xcb120
+size = 0x9f
+name = "CServerSideClientBase_ProcessChangeSplitscreenUser"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_ProcessChangeSplitscreenUser"
+addr = 0xcb120
+type = "char"
+
+[header.args]

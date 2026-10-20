@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136308Z
+addr = 0xc4a00
+size = 0x37c
+name = "CServerSideClientBase_SpawnPlayer"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_SpawnPlayer"
+addr = 0xc4a00
+type = "char"
+
+[header.args]

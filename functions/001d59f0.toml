@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136436Z
+addr = 0x1d59f0
+size = 0xbb
+name = "CNetworkClientService_Shutdown"
+type = "long long"
+
+[header]
+name = "CNetworkClientService_Shutdown"
+addr = 0x1d59f0
+type = "long long"
+
+[header.args]

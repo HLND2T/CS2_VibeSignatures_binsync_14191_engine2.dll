@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136392Z
+addr = 0x1b1970
+size = 0x53
+name = "CGameResourceService_FreeGameResourceManifest"
+type = "void"
+
+[header]
+name = "CGameResourceService_FreeGameResourceManifest"
+addr = 0x1b1970
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136012Z
+addr = 0x2d630
+size = 0x6a
+name = "CDemoPlayer_SetIgnorePacketsForResourceLoading"
+type = "void"
+
+[header]
+name = "CDemoPlayer_SetIgnorePacketsForResourceLoading"
+addr = 0x2d630
+type = "void"
+
+[header.args]

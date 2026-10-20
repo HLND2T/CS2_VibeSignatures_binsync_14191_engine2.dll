@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:39.278713Z
+addr = 0x5b180
+size = 0x126
+name = "CNetworkClientSpawnGroupCreatePrerequisites_Init"
+type = "unsigned long long"
+
+[header]
+name = "CNetworkClientSpawnGroupCreatePrerequisites_Init"
+addr = 0x5b180
+type = "unsigned long long"
+
+[header.args]

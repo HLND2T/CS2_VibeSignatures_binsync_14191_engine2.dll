@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136075Z
+addr = 0x5fd40
+size = 0xed
+name = "CNetworkGameClient_InstallStringTableCallback"
+type = "long long"
+
+[header]
+name = "CNetworkGameClient_InstallStringTableCallback"
+addr = 0x5fd40
+type = "long long"
+
+[header.args]

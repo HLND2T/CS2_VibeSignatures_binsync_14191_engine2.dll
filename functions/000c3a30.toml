@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136301Z
+addr = 0xc3a30
+size = 0x3ea
+name = "CServerSideClientBase_ProcessSignonStateMsg"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_ProcessSignonStateMsg"
+addr = 0xc3a30
+type = "char"
+
+[header.args]

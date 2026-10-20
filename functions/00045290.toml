@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136046Z
+addr = 0x45290
+size = 0x15f
+name = "CNetworkGameClient_GetClientNetworkable"
+type = "char"
+
+[header]
+name = "CNetworkGameClient_GetClientNetworkable"
+addr = 0x45290
+type = "char"
+
+[header.args]

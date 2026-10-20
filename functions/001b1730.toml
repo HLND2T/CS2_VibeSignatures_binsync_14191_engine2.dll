@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136390Z
+addr = 0x1b1730
+size = 0xf0
+name = "CGameResourceService_AppendToGameResourceManifest"
+type = "void"
+
+[header]
+name = "CGameResourceService_AppendToGameResourceManifest"
+addr = 0x1b1730
+type = "void"
+
+[header.args]

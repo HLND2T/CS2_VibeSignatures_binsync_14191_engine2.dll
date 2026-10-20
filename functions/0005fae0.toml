@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:37.136072Z
+addr = 0x5fae0
+size = 0xda
+name = "CNetworkGameClient_HookClientStringTable"
+type = "long long"
+
+[header]
+name = "CNetworkGameClient_HookClientStringTable"
+addr = 0x5fae0
+type = "long long"
+
+[header.args]
